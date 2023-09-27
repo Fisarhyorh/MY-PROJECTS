@@ -1,0 +1,65 @@
+ <!-- <a href=""><li>Branding & Strategy</li></a>
+         <a href=""><li>Logo & Identity Systems</li></a>
+         <a href=""><li>Website Design</li></a>
+         <a href=""><li>Front and Backend Web Development</li></a>
+         <a href=""><li>Web Application Design</li></a>
+         <a href=""><li>API Integration</li></a> -->
+
+
+
+
+
+          <div class="second-side">
+         <div class="lister">
+            <div class="logo1">
+                 <img src="logo/clients_good-full.svg" alt="">
+         <img src="logo/clients_aiga-full.svg" alt="">
+         <img src="logo/clients_pitchfork-full.svg" alt="">
+            </div>
+          
+            <div class="logo2">
+                <img src="logo/clients_university-of-chicago-full.svg" alt="">
+         <img src="logo/clients_parce-rum-full.svg" alt="">
+         <img src="logo/clients_nbc-full.svg" alt="">
+            </div>
+        
+            <div class="logo3">
+                <img src="logo/clients_groupon-full.svg" alt="">
+         <img src="logo/clients_pritzker-group-full.svg" alt="">
+         <img src="logo/clients_coudal-full.svg" alt="">
+            </div>
+        
+            <div class="logo4">
+                 <img src="logo/clients_3-floyds-full.svg" alt="">
+         <img src="logo/clients_pepper-full.svg" alt="">
+         <img src="logo/clients_ddb-full.svg" alt="">
+            </div>
+       
+            <div class="logo5">
+                <img src="logo/clients_the-private-bank-full.svg" alt="">
+         <img src="logo/clients_university-of-pittsburgh-full.svg" alt="">
+         <img src="logo/clients_patron-full.svg" alt="">
+            </div>
+        
+         </div>
+       
+      </div>
+
+
+
+
+
+
+
+      <div class="section1">
+   <section>
+      <div class="first-side">
+         <h4>OUR CLIENT</h4>
+         <h2>Whether you’re a budding startup or a Fortune 500 company—we’ve got you.</h2>
+         <p>We like to say our clients are our partners. But if we’re being honest, it’s more like we’re each other’s closest confidants. Together, during moments of inflection, we ask tough questions. We get to the root of why these creative endeavors are even worth exploring. And that takes an immense amount of shared trust and respect. Today and everyday, we celebrate that.</p>
+         <h3>SOME INDUSTRIES WE'RE CURRENTLY WORKING IN</h3>
+         <h6>Life Sciences | Real Estate | Hospitality | Art & Entertainment | Construction | E-commerce | Logistics | Agriculture</h6>
+      </div>
+     
+   </section>
+</div>
